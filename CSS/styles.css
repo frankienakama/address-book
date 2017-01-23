@@ -4,3 +4,16 @@ body {
   background-color: rgb(230, 206, 155);
   color:rgb(141, 138, 154);
 }
+
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+} 
